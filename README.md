@@ -6,7 +6,7 @@ I began working on this 📅 2025-02-02.
 
 ## Tooling
 
-- k3s
+- k3s (should be k8s since I'm not only using it locally)
 
 ## Goals
 
