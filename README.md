@@ -21,3 +21,19 @@ So I need this to be able to show my apps to internet, also I could build kubefl
     * DNS
 - Everything should be deployed using GitOps
     * FluxCD
+
+## Log
+
+### 2025-02-03
+
+- setup base machine using Azure
+
+### 2025-02-04
+
+- setup terminal completion, neovim
+
+### 2025-02-05
+
+- setup k3s
+- setup docs for each component
+- add k3s documentaion

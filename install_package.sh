@@ -174,3 +174,5 @@ chsh -s $(which zsh)
 wget https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh
 # install and configure powerlevel10k
 sh install.sh
+# remove powerlevel10k's install.sh to prevent any misleading file names
+rm install.sh
