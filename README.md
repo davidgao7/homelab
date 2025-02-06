@@ -38,3 +38,4 @@ So I need this to be able to show my apps to internet, also I could build kubefl
 - setup docs for each component
 - add k3s documentaion
 - change defualt commit editor from `nano` to `nvim`
+- k9s for command line monitoring
