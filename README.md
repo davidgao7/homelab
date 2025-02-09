@@ -40,3 +40,12 @@ So I need this to be able to show my apps to internet, also I could build kubefl
 - add k3s documentaion
 - change defualt commit editor from `nano` to `nvim`
 - k9s for command line monitoring
+
+### 2025-02-06
+
+- k alias with `sudo kubectl`
+
+### 2025-02-09
+
+- setup Grafana
+- setup Prometheus
